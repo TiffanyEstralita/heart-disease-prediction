@@ -20,3 +20,20 @@ Value 0: normal
 Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
 Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
 thalach: maximum heart rate achieved
+exang: exercise induced angina
+1 = yes
+0 = no
+oldpeak = ST depression induced by exercise relative to rest
+slope: the slope of the peak exercise ST segment
+Value 0: upsloping
+Value 1: flat
+Value 2: downsloping
+ca: number of major vessels (0-3) colored by flourosopy
+thal:
+0 = error (in the original dataset 0 maps to NaN's)
+1 = fixed defect
+2 = normal
+3 = reversable defect
+target (the lable):
+0 = no disease,
+1 = disease

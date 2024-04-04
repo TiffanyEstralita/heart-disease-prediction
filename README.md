@@ -1,10 +1,10 @@
 # heart-disease-prediction
 SC1015 lab mini-project
-1 Data Dictionary ¶
+1 Data Dictionary :
 age: age in years
 sex: sex
-1 = male
-0 = female
+  1 = male
+  0 = female
 cp: chest pain type
 Value 0: typical angina
 Value 1: atypical angina

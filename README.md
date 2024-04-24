@@ -22,7 +22,7 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 3. Random Forest Classification
 
 ## Conclusion
- the most important factors in predicting the presence of heart disease is thalach, oldpeak, slope, sex and exang
+- the most important factors in predicting the presence of heart disease is thalach, oldpeak, slope, sex and exang
 
 
 ## What did we learn from this project?

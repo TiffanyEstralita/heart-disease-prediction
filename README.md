@@ -1,5 +1,6 @@
 # heart-disease-prediction
-SC1015 lab mini-project
+
+## SC1015 lab mini-project
 1 Data Dictionary :
 age: age in years
 sex: sex

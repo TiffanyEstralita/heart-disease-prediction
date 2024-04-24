@@ -11,6 +11,8 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 ## Contributors
 
 ## Problem Definition
+- Which physiological factors of an individual are most important in predicting whether they have a high likelihood of having a heart disease?
+- Which data prediction model is most suitable for this context?
 
 ## Models used
 1. Logistic Regression

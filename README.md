@@ -1,7 +1,13 @@
 # heart-disease-prediction - SC1015 lab mini-project
 
 ## About 
-
+This is a mini project for SC1015 where we are analysing the factors that affect heart disease. Our code includes:
+1. Checking Correlation (numerical variables)
+2. Analysing Categorical Variables
+3. Data visualisation
+4. Prediction Models
+5. Evaluating accuracy of models
+6. Conclusion
 ## Contributors
 
 ## Problem Definition

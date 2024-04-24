@@ -12,7 +12,10 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 
 ## Problem Definition
 
-## Models used 
+## Models used
+1. Logistic Regression
+2. K-Nearest Neighbours Classification
+3. Random Forest Classification
 
 ## Conclusion
 

@@ -35,3 +35,5 @@ While we are unable to accurately predict the presence of a heart disease throug
 
 ## References
 - Dataset - https://www.kaggle.com/datasets/moazeldsokyx/heart-disease/data
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233460/
+- https://www.myheart.org.sg/health/heart-disease-statistics/

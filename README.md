@@ -1,6 +1,19 @@
 # heart-disease-prediction - SC1015 lab mini-project
 
-## Legend
+## About 
+
+## Contributors
+
+## Problem Definition
+
+## Models used 
+
+## Conclusion
+
+## What did we learn from this project?
+no clue
+
+## References
 
 1 Data Dictionary :
 age: age in years

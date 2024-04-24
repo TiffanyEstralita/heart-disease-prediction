@@ -23,9 +23,13 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 
 ## Conclusion
 - The most important factors in predicting the presence of heart disease is thalach, oldpeak, slope, sex and exang
+- Based on accuracy, the random forest classification model is most suitable for the problem
+
+While we are unable to accurately predict the presence of a heart disease through singular variables, we can make knowledgeable prediction when looking at multiple factors and their relationships
 
 ## What did we learn from this project?
 - Attempted using new models like random forest and KNN
+- There are multiple models that are suitable for accessing categorical data itself, but they have different strengths
 - Learnt about indicators like precision, recall, F1 score and support
 - Collaborating on Github
 

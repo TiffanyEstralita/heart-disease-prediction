@@ -1,4 +1,4 @@
-# heart-disease-prediction - SC1015 lab mini-project
+# Heart Disease Prediction - SC1015 lab mini-project
 
 ## About 
 This is a mini project for SC1015 where we are analysing the factors that affect heart disease. Our code includes:
@@ -9,6 +9,8 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 5. Evaluating accuracy of models
 6. Conclusion
 ## Contributors
+- TiffanyEstralita - Numerical Variables, Data Visualisation, Evaluating Accuracy of Models
+- joyfz20 - Analysis categorical variables, Prediction Models, Conclusion
 
 ## Problem Definition
 - Which physiological factors of an individual are most important in predicting whether they have a high likelihood of having a heart disease?
@@ -20,6 +22,8 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 3. Random Forest Classification
 
 ## Conclusion
+ the most important factors in predicting the presence of heart disease is thalach, oldpeak, slope, sex and exang
+
 
 ## What did we learn from this project?
 no clue

@@ -29,6 +29,8 @@ This is a mini project for SC1015 where we are analysing the factors that affect
 no clue
 
 ## References
+1. https://www.myheart.org.sg/health/heart-disease-statistics/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233460/
 
 1 Data Dictionary :
 age: age in years
